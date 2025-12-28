@@ -1,0 +1,108 @@
+# Ed Sheeran – Sing
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+It's late in the evening
+Glass on the side
+I've been sat with you
+For most of the night
+Ignoring everybody here
+We wish they would disappear
+So maybe we could get down now
+And I don't wanna know
+If you're getting ahead
+of the programme
+I want you to be mine, lady
+And to hold your body close
+Take another step
+into the no mans land
+For the longest time, lady
+I need you darling
+Come on, set the tone
+If you feel you're falling
+Won't you let me know?
+If you love me
+Come on, get involved
+Feel it rushing through you
+From your head to toe
+Sing,
+oh oh oh's
+oh oh oh's
+Louder
+oh oh oh's
+Sing,
+oh oh oh's
+This love is ablaze
+I saw flames from the
+side of the stage
+And the fire brigade comes in a
+couple of days
+Until then,
+we've got nothing to say
+And nothing to know
+But something to drink,
+and maybe something to smoke
+Let it go until are
+roads are changed
+Singing "we found love
+in a local rave"
+I don't really know what
+I'm supposed to say
+But I can just figure it out
+then hope and pray
+I told her my name and said
+"it's nice to meet ya"
+Then she handed me a
+bottle of water
+filled with tequila
+I already know she's a keeper
+Just from this
+one small act of kindness,
+I'm in deep if anybody finds out
+I'm meant to drive home
+but I've drunk all of it now
+Not sobering up
+we just sit on the couch
+One thing led to another
+Now she's kissing my mouth
+I need you darling
+Come on, set the tone
+If you feel you're falling
+Won't you let me know?
+If you love me
+Come on, get involved
+Feel it rushing through you
+From your head to toe
+Sing,
+oh oh oh's
+oh oh oh's
+louder
+oh oh oh's
+Sing,
+oh oh oh's
+Can you feel it?
+All the guys in here
+don't even wanna dance
+Can you feel it?
+All that I can hear is music
+from the back
+Can you feel it?
+I found you hiding here
+so won't you take my hand
+darling until the beat
+kicks in again
+Can you feel it?
+Can you feel it?
+Sing,
+I need you darling
+Come on, set the tone
+If you feel you're falling
+Won't you let me know?
+Sing,
+If you love me
+Come on, get involved
+Feel it rushing through you
+From your head to toe
+Sing
+```
