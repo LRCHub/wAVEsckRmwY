@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Sing",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2025-12-28T03:39:22.225956Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sing Me to Sleep",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/01_Sing_Me_to_Sleep_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sing Me to Sleep",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/02_Sing_Me_to_Sleep_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Still Sing the Old Songs",
+      "artist": "David Allan Coe",
+      "has_synced": false,
+      "path": "select/03_I_Still_Sing_the_Old_Songs_David_Allan_Coe.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sing Me Back Home",
+      "artist": "Merle Haggard & The Strangers",
+      "has_synced": true,
+      "path": "select/04_Sing_Me_Back_Home_Merle_Haggard_&_The_Strangers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sing For The Moment",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/05_Sing_For_The_Moment_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sing Another Song, Boys",
+      "artist": "Leonard Cohen",
+      "has_synced": false,
+      "path": "select/06_Sing_Another_Song,_Boys_Leonard_Cohen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Do Sing for You",
+      "artist": "Majical Cloudz",
+      "has_synced": true,
+      "path": "select/07_I_Do_Sing_for_You_Majical_Cloudz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Political Song for Michael Jackson to Sing",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/08_Political_Song_for_Michael_Jackson_to_Sing_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sing Along",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/09_Sing_Along_múm.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sing For Absolution",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/10_Sing_For_Absolution_Muse.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sing Me Spanish Techno",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/11_Sing_Me_Spanish_Techno_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sing With Your Eyes",
+      "artist": "Jon & Vangelis",
+      "has_synced": false,
+      "path": "select/12_Sing_With_Your_Eyes_Jon_&_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sing Us One of Your Songs May",
+      "artist": "Bill Fay",
+      "has_synced": false,
+      "path": "select/13_Sing_Us_One_of_Your_Songs_May_Bill_Fay.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All The Children Sing",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/14_All_The_Children_Sing_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sing",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/pl_01_Sing_Ed_Sheeran.txt"
+    }
+  ]
+}
